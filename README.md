@@ -1,4 +1,5 @@
-# Autograding Example: Node
+# NodeJS Github Class Autograding Template
+
 This example project is written in Node, and tested with Jest.
 
 ### The assignment
