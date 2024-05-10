@@ -1,8 +1,12 @@
 # NodeJS Github Class Autograding Template
+### How to use this template:
+- Click on "Use this template" in the upper righthand corner
+- Create a new repository
+Wrote in NodeJS, Tested with JEST
 
-This example project is written in Node, and tested with Jest.
 
-### The assignment
+# Assignment Name
+
 The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
 
 ### Setup command
@@ -10,6 +14,3 @@ The tests are failing right now because we're not returning the correct string. 
 
 ### Run command
 `npm test`
-
-### Notes
-- 
